@@ -1,5 +1,7 @@
-Test task for genesis devops school
+# Test task for genesis devops school
 
-Deploy wordpress site on debian vm with bash, docker, docker-compose
+Deploy wordpress site on Debian vm with bash, docker, docker-compose
 
-Run: bash deploy.sh
+### How to run (may require sudo):
+
+    bash deploy.sh
